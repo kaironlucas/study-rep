@@ -1,5 +1,5 @@
 """
-Código mostra exemplos de de laços de repetição
+Código mostra exemplos de laços de repetição
 """
 
 fruits = ['Apple', 'Banana', 'Orange', 'Lemon']

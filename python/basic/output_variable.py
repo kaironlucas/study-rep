@@ -1,5 +1,8 @@
+"""Simples código que mostra como mostrar algo na tela com a ajuda de uma variavel
+"""
+
 # variavel e valor
-nome = 'Kairon'
+NOME = 'Kairon'
 
 # mostra na tela
-print(f'Olá {nome}!')
+print(f'Olá {NOME}!')
